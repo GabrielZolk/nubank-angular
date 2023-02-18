@@ -28,7 +28,8 @@
 }
 
 .right-icons svg {
-    margin-left: 10px;
+    margin-top: 10px;
+    margin-left: 18px;
 }
  
 .toolbar .header {
@@ -37,9 +38,183 @@
    justify-content: space-between;
 }
 
+h1, h2, h3, h4, p, span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: rgb(35, 35, 35);
+}
+
 h2 {
     margin: 0;
     padding: 0;
     font-size: 18px;
     color: white;
+}
+
+.content section {
+    padding-left: 28px;
+    padding-right: 28px;
+}
+
+.content-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.carousel {
+    margin-top: 28px;
+    margin-bottom: 28px;
+
+    /* display: flex;
+    flex-direction: row;
+    align-items: center; */
+}
+
+.carousel-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.carousel-item span {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    justify-content: start;
+}
+
+.carousel-circle {
+    width: 68px;
+    height: 68px;
+    border-radius: 68px;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 2px solid rgb(241, 241, 241);
+}
+
+.card {
+    height: 50px;
+    border-radius: 15px;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.card svg {
+    padding-left: 25px;
+}
+
+.card-span {
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.card-h4 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.account {
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.balance {
+    margin-left: 28px;
+    margin-right: 28px;
+    margin-bottom: 20px;
+}
+
+.content-title h1 {
+    margin-left: 28px;
+    margin-right: 28px;
+    margin-bottom: 20px;
+}
+
+.carousel-item.keen-slider__slide {
+    min-width: calc((100% / 4.5) - 14px) !important;
+    max-width: calc((100% / 4.5) - 14px) !important;
+}
+
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* padding-left: 28px;
+    width: calc(100% - 28px); */
+}
+
+.cards .card {
+    height: 88px;
+}
+
+.cards .card p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    font-weight: 200;
+    color: black;
+    margin: 0;
+}
+
+.cards .card p span {
+    color: rgb(130, 10, 209);
+    padding: 0;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.card.keen-slider__slide {
+    min-width: calc((100% / 1.5) - 7px) !important;
+    max-width: calc((100% / 1.5) - 7px) !important;
+}
+
+.credit-card h2 {
+    font-size: 24px;
+    margin: 0;
+    margin-bottom: 6px;
+    
+}
+
+.credit-card h3 {
+    font-size: 14px;
+    color: rgb(100, 100, 100);
+    margin-top: 17px;
+} 
+
+.credit-card p {
+    font-size: 14px;
+    color: rgb(100, 100, 100);
+}
+
+section p {
+    color: rgb(100, 100, 100);
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 16px;
+}
+
+.small {
+    font-size: 14px;
 }
