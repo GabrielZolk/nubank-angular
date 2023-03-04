@@ -1,28 +1,16 @@
-# NubankAngular
+# Interface recente do aplicativo do Nubank recriada em 🍷ANGULAR!🍷 Versão WEB com responsividade para Mobile.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+## Versão Web 🟢
 
-## Development server
+![image](https://user-images.githubusercontent.com/109248116/222929594-557b0338-b11b-4f36-a641-40fc3dfa9234.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://user-images.githubusercontent.com/109248116/222929602-56fe100d-1e51-44d7-94de-b7ea4bec154f.png)
 
-## Code scaffolding
+## Versão Mobile 🟡
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://user-images.githubusercontent.com/109248116/222929616-f43c6e9e-1d32-4eeb-b326-f85c6085e596.png)
 
-## Build
+![image](https://user-images.githubusercontent.com/109248116/222929619-59f6d15f-6825-4c3f-bdb4-e1175e9a205d.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# nubank-angular
+[Link](https://nubank-angular.vercel.app/,  "Deploy")
