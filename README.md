@@ -1,6 +1,6 @@
 <center>
 
-# Interface recente do aplicativo do Nubank recriada em 🍷ANGULAR!🍷 <br> <br> 👉🏼 Versão WEB com responsividade para Mobile.
+# Interface recente do aplicativo do Nubank recriada em ANGULAR!🍷 <br> <br> 👉🏼 Versão WEB com responsividade para Mobile.
 
 </center>
 
