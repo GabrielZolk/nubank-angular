@@ -22,6 +22,6 @@
 
 <center>
 
-🔗 [Link](https://nubank-angular.vercel.app/,  "Deploy")
+🔗 [Link](https://nubank-angular.vercel.app)
   
 </center>
